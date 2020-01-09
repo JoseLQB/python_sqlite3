@@ -1,4 +1,4 @@
-# Crud para gestionar una base de datos de usuarios.
+# Crud para gestionar una base de datos de usuarios
 
 Desarrollado con **Python3**. 
 
