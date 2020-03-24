@@ -1,8 +1,7 @@
+#práctica del curso de python del canal de youtube pildorasinformaticas
 from tkinter import *
 from tkinter import messagebox
 import sqlite3
-
-#http://copitosystem.com/es/python-mysql-database/
 #---------------------funciones
 
 def conexionBDD():
